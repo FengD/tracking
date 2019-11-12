@@ -1,0 +1,3 @@
+<library path="lib/libtracking_nodelet">
+  <class name="hirain_itd_ai/TrackingNodelet" type="hirain_itd_ai::TrackingNodelet" base_class_type="nodelet::Nodelet" />
+</library>
